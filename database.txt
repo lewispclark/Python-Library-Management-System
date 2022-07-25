@@ -1,0 +1,50 @@
+1,3810280135779,The Gruffalo,Julia Donaldson,02/04/2018,0
+2,3810280135779,The Gruffalo,Julia Donaldson,02/04/2018,0
+3,3810280135779,The Gruffalo,Julia Donaldson,02/04/2018,0
+4,8316377777009,The Long Call,Ann Cleeves,01/12/2017,0
+5,7552244486093,Room on the Broom, Julia Donaldson,23/01/2018,0
+6,7552244486093,Room on the Broom, Julia Donaldson,23/01/2018,0
+7,9071857708043,The Moon Sister,Lucinda Riley,12/03/2016,0
+8,2344600808696,A Christmas Carol,Charles Dickens,29/06/2018,0
+9,8818885030466,Oliver Twist,Charles Dickens,31/05/2018,0
+10,3880751353706,A Christmas Carol,Charles Dickens,08/05/2016,0
+11,3880751353706,A Christmas Carol,Charles Dickens,25/06/2020,0
+12,6291477181703,The Battle of Life,Charles Dickens,02/07/2017,0
+13,8222255525288,Killing Floor,Lee Child,29/10/2020,0
+14,7090636766467,Die Trying,Lee Child,19/11/2016,0
+15,8978384591669,Tripwire,Lee Child,13/10/2020,0
+16,3396598084276,Without Fail,Lee Child,25/04/2020,0
+17,9465660680753,Persuader,Lee Child,25/05/2016,0
+18,9465660680753,Persuader,Lee Child,25/05/2016,0
+19,9465660680753,Persuader,Lee Child,01/02/2016,0
+20,1462127936483,Harry Potter and the Philosopher's Stone,J K Rowling,10/08/2020,0
+21,4509498912209,Harry Potter and the Chamber of Secrets,J K Rowling,10/08/2017,0
+22,5723436513877,Harry Potter and the Prisoner of Azkaban,J K Rowling,07/04/2016,0
+23,2691859013587,Harry Potter and the Goblet of Fire,J K Rowling,05/12/2017,0
+24,2691859013587,Harry Potter and the Goblet of Fire,J K Rowling,27/04/2019,0
+25,9935189628814,Harry Potter and the Order of the Phoenix,J K Rowling,29/06/2015,0
+26,9935189628814,Harry Potter and the Order of the Phoenix,J K Rowling,06/06/2018,0
+27,1809409516515,Harry Potter and the Half-Blood Prince,J K Rowling,02/11/2019,0
+28,9181782298483,Harry Potter and the Deathly Hallows,J K Rowling,25/11/2019,0
+29,6303808757446,Fantastic Beasts and Where to Find Them,J K Rowling,16/06/2018,0
+30,6303808757446,Fantastic Beasts and Where to Find Them,J K Rowling,27/02/2017,0
+31,6303808757446,Fantastic Beasts and Where to Find Them,J K Rowling,16/11/2020,0
+32,7714009010457,Animal Farm,George Orwell,11/07/2018,0
+33,1646618715422,And Then There Were None,Agatha Christie,25/11/2018,0
+34,9668048394737,Alice's Adventures in Wonderland,Lewis Carroll,10/11/2020,0
+35,6962657243307,The Lion the Witch and the Wardrobe,C S Lewis,10/08/2016,0
+36,6962657243307,The Lion the Witch and the Wardrobe,C S Lewis,13/02/2018,0
+37,7572589066300,Pinocchio,Carlo Collodi,11/11/2017,0
+38,7572589066300,Pinocchio,Carlo Collodi,28/11/2018,0
+39,4612581001391,Verity,Colleen Hoover,11/08/2017,0
+40,6312669700701,The Hunger Games,Suzanne Collins,26/08/2016,0
+41,6312669700701,The Hunger Games,Suzanne Collins,24/09/2020,0
+42,5698352088273,To Kill a Mockingbird,Harper Lee,14/06/2016,0
+43,4566642683399,Pride and Prejudice,Jane Austen,15/02/2015,0
+44,4566642683399,Pride and Prejudice,Jane Austen,04/07/2019,0
+45,7397756966902,Twilight,Stephenie Meyer,04/12/2016,0
+46,7800426268806,The Fault in Our Stars,John Green,30/11/2018,0
+47,7800426268806,The Fault in Our Stars,John Green,04/08/2017,0
+48,3129631417760,The Hitchhiker's Guide to the Galaxy,Douglas Adams,19/07/2016,0
+49,3129631417760,The Hitchhiker's Guide to the Galaxy,Douglas Adams,12/08/2018,0
+50,3129631417760,The Hitchhiker's Guide to the Galaxy,Douglas Adams,26/10/2019,0
